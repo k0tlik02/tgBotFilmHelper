@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Source\Repos\tg-bot\tg-bot\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Triggered\tg-bot\Settings.job
+C:\Users\Lenovo\Source\Repos\tg-bot\tg-bot\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Triggered\tg-bot\tg-bot.exe
+C:\Users\Lenovo\Source\Repos\tg-bot\tg-bot\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Triggered\tg-bot\tg-bot.dll
+C:\Users\Lenovo\Source\Repos\tg-bot\tg-bot\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Triggered\tg-bot\tg-bot.deps.json
+C:\Users\Lenovo\Source\Repos\tg-bot\tg-bot\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Triggered\tg-bot\tg-bot.runtimeconfig.json
+C:\Users\Lenovo\Source\Repos\tg-bot\tg-bot\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Triggered\tg-bot\tg-bot.pdb
+C:\Users\Lenovo\Source\Repos\tg-bot\tg-bot\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Triggered\tg-bot\Newtonsoft.Json.dll
+C:\Users\Lenovo\Source\Repos\tg-bot\tg-bot\obj\Release\net5.0\PubTmp\Out\app_data\Jobs\Triggered\tg-bot\Telegram.Bot.dll

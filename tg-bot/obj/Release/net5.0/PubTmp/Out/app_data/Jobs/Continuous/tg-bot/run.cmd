@@ -1,0 +1,1 @@
+dotnet tg-bot.dll %*
